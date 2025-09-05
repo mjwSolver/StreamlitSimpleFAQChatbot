@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What are the future career prospects for a data scientist in Indonesia? 🇮🇩",
+    "answer": "The career prospects for data scientists in Indonesia are very promising. The country's rapid digital transformation and increasing reliance on data-driven decision-making across various industries like e-commerce, banking, healthcare, and telecommunications are fueling a high demand for skilled professionals in this field. The government's focus on digital initiatives also contributes to the expanding job market."
+  },
+  {
+    "question": "What kind of salary can a junior data scientist expect in Indonesia?",
+    "answer": "The salary for a data scientist in Indonesia can vary depending on experience, location, and the company. The average monthly salary for a data scientist in Jakarta ranges from Rp 9,700,000 to Rp 12,000,000, while in other areas like Yogyakarta and Bandung, it's a bit lower, ranging from Rp 5,300,000 to Rp 6,000,000 per month."
+  },
+  {
+    "question": "What are the key technical skills needed to become a data scientist in Indonesia?",
+    "answer": "You must have a strong foundation in several key technical areas. This includes proficiency in programming languages like **Python** and **R**, a solid understanding of **statistical analysis** and **mathematics**, and expertise in **machine learning** and **deep learning**. Knowledge of **data wrangling**, **data visualization**, and **database management** (especially SQL) is also essential."
+  },
+  {
+    "question": "What non-technical or soft skills are important for a data scientist?",
+    "answer": "Beyond technical expertise, essential soft skills include strong **communication** and **storytelling** to explain complex data insights to non-technical stakeholders, **critical thinking**, **problem-solving**, and good **business acumen** to understand how data analysis can address business challenges."
+  },
+  {
+    "question": "Which is a better major for a data science career: Informatics (Ilmu Komputer) or Information Systems for Business (Sistem Informasi Bisnis)?",
+    "answer": "Both Informatics and Information Systems can provide a good foundation, but they have different focuses. **Informatics** often has a stronger focus on the technical side, like algorithms and programming, which are directly applicable to data science roles. **Information Systems for Business**, on the other hand, emphasizes how technology supports business goals, which helps build the crucial business acumen needed for a data scientist to provide relevant insights."
+  },
+  {
+    "question": "Between Informatics and Information Systems, which one would have an easier time breaking into a data scientist role?",
+    "answer": "A graduate from an **Informatics** background might have an easier time transitioning into a data science role because the curriculum often covers more of the core technical skills like programming and machine learning algorithms. However, a graduate from an **Information Systems** background with a passion for data and a strong focus on self-learning technical skills can be equally successful, and their business-oriented perspective can be a significant advantage."
+  },
+  {
+    "question": "Is a university degree in data science necessary to become a data scientist in Indonesia?",
+    "answer": "While a degree in data science, computer science, statistics, or a related field is a common path, it's not strictly necessary. Many professionals successfully enter the field by completing **data science bootcamps**, online courses, and building a strong portfolio of projects to demonstrate their skills to potential employers."
+  },
+  {
+    "question": "What is the role of a data scientist in a company in Indonesia?",
+    "answer": "A data scientist's role typically involves collecting, cleaning, and analyzing large datasets to identify trends and patterns. They then use these insights to build predictive models, inform strategic business decisions, and solve complex problems, often working closely with business and engineering teams."
+  },
+  {
+    "question": "What are some of the main challenges a data scientist might face in Indonesia?",
+    "answer": "Some of the main challenges include dealing with **unstructured or dirty data**, which requires extensive data preprocessing. Additionally, communicating complex findings to non-technical stakeholders and keeping up with the rapid pace of technological advancements in the field are common hurdles."
+  },
+  {
+    "question": "Are there any specific data privacy regulations in Indonesia that data scientists need to be aware of?",
+    "answer": "Yes, data scientists must be aware of Indonesia's **Personal Data Protection (PDP) Law (Law No. 27 of 2022)**. This law, along with other regulations, mandates that personal data processing must be conducted legally and transparently, with explicit consent from the data subject. Compliance with these laws is crucial."
+  },
+  {
+    "question": "How important is a portfolio for a data scientist looking for a job?",
+    "answer": "A portfolio is incredibly important. It serves as a practical demonstration of your skills, showcasing your ability to apply theoretical knowledge to real-world problems. A strong portfolio with projects on platforms like **GitHub** or **Kaggle** can give a candidate a significant edge over others."
+  },
+  {
+    "question": "What industries in Indonesia are actively hiring data scientists?",
+    "answer": "Data scientists are in high demand across many industries, including **technology and AI**, **e-commerce and retail**, **finance and banking**, and **telecommunications**. The rise of tech startups and digital-first companies has also created numerous opportunities."
+  },
+  {
+    "question": "What is the difference between a Data Scientist and a Data Analyst?",
+    "answer": "A **Data Analyst** typically focuses on analyzing existing data to answer specific questions and report on past and present trends. A **Data Scientist** goes a step further, using more advanced statistical methods and machine learning to build predictive models and forecast future outcomes, often working with larger, more complex datasets."
+  },
+  {
+    "question": "How can one gain practical experience in data science before getting a job?",
+    "answer": "You can gain practical experience through **internships**, participating in data science **competitions** on platforms like Kaggle, contributing to **open-source projects**, and taking on personal projects that solve real-world problems using publicly available datasets."
+  },
+  {
+    "question": "What is the role of mathematics and statistics in data science?",
+    "answer": "Mathematics and statistics are the core foundations of data science. They provide the theoretical framework for understanding data, designing experiments, and interpreting results. Concepts like **probability**, **linear algebra**, and **calculus** are essential for understanding how machine learning algorithms work."
+  },
+  {
+    "question": "What is the difference between a Data Scientist and a Machine Learning Engineer?",
+    "answer": "A **Data Scientist** is more focused on analysis, modeling, and deriving insights from data. A **Machine Learning Engineer** is more of an expert in software engineering, focused on the operationalization and deployment of machine learning models into production systems, ensuring they are scalable and reliable."
+  },
+  {
+    "question": "What is the importance of business acumen in the data science field?",
+    "answer": "Business acumen allows a data scientist to understand the context of the business problem they are trying to solve. Without it, even the most technically impressive models might not provide valuable or actionable insights that align with the company's goals and strategy. It bridges the gap between raw data and business value."
+  },
+  {
+    "question": "Are data science bootcamps in Indonesia a good alternative to a formal university education?",
+    "answer": "Bootcamps can be an excellent alternative, especially for those looking to quickly upskill or switch careers. Many bootcamps in Indonesia offer a concentrated, hands-on curriculum that focuses on practical skills and portfolio-building, and some even provide job placement assistance."
+  },
+  {
+    "question": "What are some common tools and platforms used by data scientists in Indonesia?",
+    "answer": "Common tools and platforms include programming languages like **Python** (with libraries like Pandas, NumPy, and scikit-learn) and **R**, as well as database systems like **SQL**. For visualization, tools like **Tableau** and **Power BI** are widely used, and for machine learning, frameworks like **TensorFlow** and **PyTorch** are popular."
+  },
+  {
+    "question": "How can a student or fresh graduate stand out when applying for data science jobs?",
+    "answer": "To stand out, a student should focus on building a strong portfolio with diverse projects, gaining practical experience through internships or part-time work, and showcasing a clear understanding of the business context. Networking with professionals and staying active in the data science community can also give you a significant advantage."
+  }
+]
