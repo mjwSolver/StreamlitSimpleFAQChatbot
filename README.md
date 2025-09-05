@@ -3,6 +3,8 @@ This project is a simple, conversational AI chatbot built to answer common quest
 
 This project was built as a submission for an AI/Data Scientist technical exam.
 
+![Image of UI](https://github.com/mjwSolver/StreamlitSimpleFAQChatbot/blob/main/assets/Demo%20of%20AI%20Career%20Advisor%20for%20Data%20Science.png)
+
 ### 🚀 Live Demo
 You can access and interact with the live application here:
 
